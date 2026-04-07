@@ -3,11 +3,7 @@
 A dark color theme for Visual Studio Code inspired by the Teenage Mutant Ninja
 Turtles.
 
-<p align="center">
-
-<img src="./assets/palette.png"/>
-
-</p>
+![Color palette](assets/palette.png)
 
 ## Installation
 
