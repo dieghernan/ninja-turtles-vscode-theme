@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg1"
-   width="258"
-   height="34"
-   viewBox="0 0 258 34"
+   width="1280"
+   height="170"
+   viewBox="0 0 1280 169.99999"
    sodipodi:docname="palette.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="palette.png"
@@ -27,9 +27,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.7908816"
-     inkscape:cx="165.18078"
-     inkscape:cy="3.4039423"
+     inkscape:zoom="0.49336283"
+     inkscape:cx="1027.6413"
+     inkscape:cy="130.73543"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -37,15 +37,15 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <rect
-     style="fill:#0d1117;fill-opacity:1;fill-rule:evenodd;stroke-width:1.27671"
+     style="fill:#0d1117;fill-opacity:1;fill-rule:evenodd;stroke-width:6.35876"
      id="rect1"
-     width="258"
-     height="34"
+     width="1280"
+     height="170"
      x="0"
      y="0" />
   <g
      id="g2"
-     transform="translate(-1.5)"
+     transform="matrix(4.9612403,0,0,4.9999999,-7.4418592,1.7e-6)"
      style="display:inline">
     <rect
        style="fill:#4caf50;fill-opacity:1;fill-rule:evenodd;stroke-width:1.08246"
