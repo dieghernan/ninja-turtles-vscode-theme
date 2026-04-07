@@ -8,17 +8,39 @@
   "maintainers": [
     "dieghernan"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dieghernan/ninja-turtles-vscode-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dieghernan/ninja-turtles-vscode-theme/issues"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
   "categories": [
     "Themes"
   ],
+  "sponsor": {
+    "url": "https://github.com/dieghernan/ninja-turtles-vscode-theme?sponsor=1"
+  },
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#0D1117",
     "theme": "dark"
   },
+  "badges": [
+    {
+      "url": "https://img.shields.io/github/license/dieghernan/ninja-turtles-vscode-theme",
+      "href": "https://github.com/dieghernan/ninja-turtles-vscode-theme/blob/main/LICENSE",
+      "description": "MIT License"
+    },
+    {
+      "url": "https://img.shields.io/badge/PRs-welcome-brightgreen.svg",
+      "href": "https://github.com/dieghernan/ninja-turtles-vscode-theme/pulls",
+      "description": "PRs Welcome"
+    }
+  ],
   "keywords": [
     "tmnt",
     "teenage-mutant-ninja-turtles",
