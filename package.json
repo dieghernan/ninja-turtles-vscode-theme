@@ -1,0 +1,38 @@
+{
+  "name": "ninja-turtles-vscode-theme",
+  "displayName": "Ninja Turtles",
+  "description": "Visual Studio Code theme based in the Teenage Mutant Ninja Turtles",
+  "publisher": "dieghernan",
+  "license": "MIT",
+  "version": "0.0.1",
+  "maintainers": [
+    "dieghernan"
+  ],
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0D1117",
+    "theme": "dark"
+  },
+  "keywords": [
+    "tmnt",
+    "teenage-mutant-ninja-turtles",
+    "theme",
+    "dark-theme",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ninja Turtles",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ninja-turtles-dark-color-theme.json"
+      }
+    ]
+  }
+}
