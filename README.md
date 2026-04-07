@@ -3,6 +3,9 @@
 A dark color theme for Visual Studio Code inspired by the Teenage Mutant Ninja
 Turtles.
 
+[![Preview in
+vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/editor/theme/dieghernan.ninja-turtles-vscode-theme/Ninja%20Turtles)
+
 ![Color palette](assets/palette.png)
 
 ## Installation
