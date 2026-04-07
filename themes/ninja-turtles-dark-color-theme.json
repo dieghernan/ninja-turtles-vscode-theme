@@ -1,6 +1,7 @@
 {
 	// Created with the R package rstudiothemes (c) dieghernan.
 	// https://github.com/dieghernan/rstudiothemes
+	"$schema": "vscode://schemas/color-theme",
 	"name": "Ninja Turtles",
 	"author": "dieghernan, rstudiothemes R package",
 	"semanticHighlighting": true,
